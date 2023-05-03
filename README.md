@@ -1,0 +1,1 @@
+## Example of JSONB (Postgresql) usage and custom UserType (Hibernate) implementation.
