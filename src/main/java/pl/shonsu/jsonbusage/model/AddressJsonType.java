@@ -1,4 +1,4 @@
-package pl.shonsu.jsonbusage;
+package pl.shonsu.jsonbusage.model;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.hibernate.HibernateException;
@@ -7,7 +7,7 @@ import org.hibernate.type.SqlTypes;
 import org.hibernate.usertype.UserType;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import pl.shonsu.jsonbusage.module.Address;
+import pl.shonsu.jsonbusage.model.Address;
 
 import java.io.*;
 import java.nio.charset.StandardCharsets;

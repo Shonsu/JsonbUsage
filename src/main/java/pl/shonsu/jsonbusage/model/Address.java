@@ -1,4 +1,4 @@
-package pl.shonsu.jsonbusage.module;
+package pl.shonsu.jsonbusage.model;
 
 import java.io.Serializable;
 
